@@ -1,0 +1,61 @@
+@startuml
+
+class usuario{
+-nome
+-login
+-senha
+-idade
+-telefone
+-cidade
+}
+
+class categoriaUsuario{
+-codigoCategoria
+-descricaoCategoria
+}
+
+class associaçaoTwitter{
+-apiKey
+-apiSecretKey
+-accessTokenSecret
+}
+
+class responsavel{
+-nome
+-telefone
+-email
+}
+
+class tweet{
+-usuario
+-horarioPostagem
+-dataPostagem
+-mensagem
+}
+
+class processamentoEmoçao{
+-usuario
+-tweet
+-emoçao
+-açoes
+}
+
+class denunciaTweet{
+-palavraChave
+-motivo
+}
+
+class categoriaTweet{
+-codigoCategoria
+-descricaoCategoria
+}
+
+usuario --* associaçaoTwitter
+usuario --> denunciaTweet: realiza
+usuario --o responsavel
+tweet --o processamentoEmoçao :possui
+usuario --> tweet: escreve
+usuario --* categoriaUsuario
+tweet --* categoriaTweet
+
+@enduml

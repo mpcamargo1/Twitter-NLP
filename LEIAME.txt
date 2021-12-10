@@ -1,0 +1,28 @@
+/*Conta Twitter 1 */
+usuário : @MarcosP00936274
+email : marcoscamargooliveiraman@gmail.com
+senha : 7539SistCB
+
+/*Autenticação 1*/
+Consumer API keys
+Kxr0F4CIaRUR8m8E3rrowUURz (API key)
+sxkV4EaEPiI5O03YjtaZRK4hqRcp8zaT8dcV1qVlXDqZyGQnVR (API secret key)
+
+Access token & access token secret
+1134884278137970688-DMbfuz5a4KCTp72ajYiC96jcSCQoEw (Access token)
+L8KEQIaIAaSztea5Mr4SBbhGixq6PnTuLuLKZSbYjuiT7 (Access token secret)
+
+//Segunda Conta//
+usuario: @Fernand97409435
+email: jvrodrigueshilario2.0@gmail.com
+senha: TrabalhoFrank
+
+//Autenticação//
+
+Consumer API keys
+VnFBuM3LJTZRLwRPv8IBDZUI5 (API key)
+ntqcnLunCsHhqh2PUkxykL6L9lCQDUpjrrMXwsa6JvinRcE4nR (API secret key)
+Access token & access token secret
+1138144029256892417-k5cZX1ukbwOWvFXQ9G5fantasGUfe0 (Access token)
+J27tW4pPBxRTlzDu94pTBdVXL7DCuPRMMJqqhGl6P5M2a (Access token secret)
+
