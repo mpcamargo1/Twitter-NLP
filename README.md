@@ -6,8 +6,11 @@ Projeto que integra a plataforma Twitter e processamento de linguagens naturais.
 - Baixe e instale o MySQL 8.0.26 e MySQL 8.0.26 Workbench (Dica: instalar o MySQL 8.0.26 pelo Docker é mais prático !)
 - Cria uma nova conexão no Workbench
 - Crie um banco chamado "bd_acb"
-- Realize DataImport dos arquivos dump fornecidos (Server->DataImport)
+- Realize DataImport dos arquivos dump fornecidos abaixo (Server->DataImport)
 - Abre o projeto e altere a classe IMySQL (Utils) com os dados da sua conexeão criada no Workbench (porta, usuário e senha)
 - Adicione na tabela associacaoTwitter os dados da API (Atenta-se a coluna login que faz referência a tabela usuario)
 - Realize um build do projeto
 - Execute o projeto (telaLogin) e coloca os dados do usuario e senha registrado no banco de dados.
+
+
+Dump : https://drive.google.com/drive/folders/1OinUm10wcOFv8Ig9pM-d95mvUQmsua33?usp=sharing
