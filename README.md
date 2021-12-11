@@ -19,11 +19,13 @@ Dump : https://drive.google.com/drive/folders/1OinUm10wcOFv8Ig9pM-d95mvUQmsua33?
 <div>
   <img src=https://user-images.githubusercontent.com/88407564/145657779-b18e54f9-3280-4ecb-bbae-f91e9ff3f926.png>
 </div>
+
 - Tweet armazenado na plataforma
 <div>
   <img src=https://user-images.githubusercontent.com/88407564/145657784-87b5f19b-ba2a-48bd-af40-be922704cb61.png>
 </div>
-- Inserir um tweet ofensivo
+
+- Tentativa de enviar um tweet ofensivo
 <div>
   <img src=https://user-images.githubusercontent.com/88407564/145657786-7651019b-5a32-42b4-a22b-942494172a08.png>
 </div>
