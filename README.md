@@ -29,3 +29,6 @@ Dump : https://drive.google.com/drive/folders/1OinUm10wcOFv8Ig9pM-d95mvUQmsua33?
 <div>
   <img src=https://user-images.githubusercontent.com/88407564/145657786-7651019b-5a32-42b4-a22b-942494172a08.png>
 </div>
+
+# Observação
+- Por questão de simplicidade do projeto, não é implementado um sistema de autenticação de login utilizando função hash criptográfica.
